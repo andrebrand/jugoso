@@ -1,0 +1,50 @@
+{
+  "jugoso": {
+    "syllable": [
+      {
+        "label": "hoo",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_16607_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "goh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_16607_speaker_3_syllable_2_version_51.mp4"
+      },
+      {
+        "label": "soh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_16607_speaker_3_syllable_3_version_51.mp4"
+      }
+    ]
+  },
+  "son": {
+    "syllable": [
+      {
+        "label": "sohn",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_86_speaker_3_syllable_all_version_51.mp4"
+      }
+    ]
+  },
+  "rendir": {
+    "syllable": [
+      {
+        "label": "ren",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_11542_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "deer",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_11542_speaker_3_syllable_2_version_51.mp4"
+      }
+    ]
+  },
+  "duda": {
+    "syllable": [
+      {
+        "label": "doo",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_1418_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "dah",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_1418_speaker_3_syllable_2_version_51.mp4"
+      }
+    ]
+  }
+}
