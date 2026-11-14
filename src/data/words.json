@@ -46,5 +46,65 @@
         "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_1418_speaker_3_syllable_2_version_51.mp4"
       }
     ]
+  },
+  "molestar": {
+    "syllable": [
+      {
+        "label": "moh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_2492_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "lehs",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_2492_speaker_3_syllable_2_version_51.mp4"
+      },
+      {
+        "label": "tahr",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_2492_speaker_3_syllable_3_version_51.mp4"
+      }
+    ]
+  },
+  "poder": {
+    "syllable": [
+      {
+        "label": "poh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_12_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "dehr",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_12_speaker_3_syllable_2_version_51.mp4"
+      }
+    ]
+  },
+  "fanatico": {
+    "syllable": [
+      {
+        "label": "fah",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_8986_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "nah",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_8986_speaker_3_syllable_2_version_51.mp4"
+      },
+      {
+        "label": "tee",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_8986_speaker_3_syllable_3_version_51.mp4"
+      },
+      {
+        "label": "koh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_8986_speaker_3_syllable_4_version_51.mp4"
+      }
+    ]
+  },
+  "foca": {
+    "syllable": [
+      {
+        "label": "foh",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_9198_speaker_3_syllable_1_version_51.mp4"
+      },
+      {
+        "label": "kah",
+        "link": "https://sd-pronunciation-processed-videos.sdcdns.com/desktop/lang_es_pron_9198_speaker_3_syllable_2_version_51.mp4"
+      }
+    ]
   }
 }
